@@ -16,7 +16,7 @@ import javax.swing.Timer;
 
 /**
  * This panel implements the "Escapa" game shown at <a herf="http://members.iinet.net.au/~pontipak/redsquare.html">http://members.iinet.net.au/~pontipak/redsquare.html</a>. 
- * 
+ *  
  * The player controls a red square in the center of the screen. 
  * Blue enemies bounce around, and the player must avoid touching them or the black border. 
  * The player's score is the amount of time he or she lasts before losing.

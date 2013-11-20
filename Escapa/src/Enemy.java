@@ -2,7 +2,7 @@ import java.awt.geom.Rectangle2D;
 
 /**
  * 
- * 
+ *  
  * @author Raphael Kargon
  */
 public class Enemy extends Rectangle2D.Double {
