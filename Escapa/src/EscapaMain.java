@@ -5,6 +5,7 @@ import java.awt.GridLayout;
 import javax.swing.JFrame;
 
 /** 
+ * Sets up a window that displays an Escapa game, using the EscapaPanel class.
  * 
  * @author Raphael Kargon
  *
